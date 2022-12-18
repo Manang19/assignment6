@@ -1,0 +1,42 @@
+[
+ {
+    "id":1,
+    "name":"Manan",
+    "dob": "01_02_1999",
+    "height":6,
+    "city":"surat",
+    "state":"Gujarat"
+ },
+ {
+    "id":2,
+    "name":"karan",
+    "dob": "06_05_1998",
+    "height":5.11,
+    "city":"surat",
+    "state":"Gujarat"
+ },
+ {
+    "id":3,
+    "name":"sagar",
+    "dob": "19_08_1996",
+    "height":5.9,
+    "city":"surat",
+    "state":"Gujarat"
+ },
+ {
+    "id":4,
+    "name":"sohit",
+    "dob": "01_12_1995",
+    "height":6,
+    "city":"surat",
+    "state":"Gujarat"
+ },
+ {
+    "id":5,
+    "name":"viraj",
+    "dob": "10_11_1995",
+    "height":5.10,
+    "city":"surat",
+    "state":"Gujarat"
+ }
+]
